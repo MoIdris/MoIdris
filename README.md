@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Tableau, Power BI, Python and SQL for data manipulation and analysis
 - 💞️ I’m looking to collaborate on data-driven projects, especially in the field of Supply Chain Management, Finance and E-commerce
 - 📫 How to reach me: Via email at idmoh44@yahoo.com or on LinkedIn at www.linkedin.com/in/idris-ibn-mohammed
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Growing up, I was that kid who believed in magic. Now, I see technology as our modern-day spellbook, transforming ideas into realities and impacting lives.
 
 <!---
